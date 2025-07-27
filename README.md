@@ -10,6 +10,7 @@
 - Hüseyin Gürgün 
 - Yiğit Efe Giraz
 -  Gökhan Yavuz
+-  Ömer Bozbay
 
 ## 🎯 Abstract
 This project presents the design and implementation of an **autonomous irrigation system** powered entirely by **renewable energy**,with a primary focus on **solar energy**. Designed for **campuses, parks, and agricultural areas**,
@@ -48,45 +49,62 @@ Key features:
 
 ## 📦 File Structure
 
+```
 ├── 1_Software/  # Web-based interface and control scripts
-│ ├── chart.js
-│ ├── açu.ico
-│ ├── grafik.php
-│ ├── grafik_veri.php
-│ ├── headerlogotr.png
-│ ├── index.php
-│ ├── komutal.php
-│ ├── komutver.php
-│ ├── schedule_ekle.php
-│ ├── style.css
-│ ├── temp/
-│ ├── verial.php
-│ └── zaman_kontrol.php
+│   ├── chart.js
+│   ├── açu.ico
+│   ├── grafik.php
+│   ├── grafik_veri.php
+│   ├── headerlogotr.png
+│   ├── index.php
+│   ├── komutal.php
+│   ├── komutver.php
+│   ├── schedule_ekle.php
+│   ├── style.css
+│   ├── temp/
+│   ├── verial.php
+│   └── zaman_kontrol.php
 
 ├── 2_System_Design_And_Components/  # Circuit diagrams, component list, and system layout
-│ ├── Alternative_Lorawan_Schematic.png
-│ ├── Circuit_Diagram.png
-│ ├── Components_List.docx
-│ └── Field-Irrigation-Layout.png
+│   ├── Alternative_Lorawan_Shematics/
+│   │   ├── Alternative_Lorawan_Schematic (Report - 4)
+│   │   └── Alternative_Lorawan_Schematic
+│   ├── Circuit_Diagram.png
+│   ├── Components_List.docx
+│   └── Field-Irrigation-Layout.png
 
-├── 3_Reports/ # Periodic project progress reports
-│ ├── August_26_2024_Report_1.pdf
-│ ├── August_26_2024_Report_2.pdf
-│ ├── August_28_2024_Report_3.pdf
-│ ├── September_8_2024_Report_4.pdf
-│ └── October_16_2024_Report_5.pdf
+├── 3_Reports/  # Periodic project progress reports
+│   ├── August_26_2024_Report_1.pdf
+│   ├── August_26_2024_Report_2.pdf
+│   ├── August_28_2024_Report_3.pdf
+│   ├── September_8_2024_Report_4.pdf
+│   └── October_16_2024_Report_5.pdf
 
-├── 4_Working_Demo/ # Video demonstration of the system
-│ └── demo.mp4
+├── 4_Media/  # Project media files: demo videos, photos, and visuals
+│   ├── Videos/
+│   │   ├── Demo_Full.mp4
+│   │   └── Demo_Teaser.mp4
+│   ├── Images/
+│   │   ├── Project_Image_1_Setup.jpeg
+│   │   ├── Project_Image_2_Circuit.jpeg
+│   │   ├── Project_Image_3_UI.jpeg
+│   │   └── BAP_Conceptual_Schema.png
 
-├── 5_EurasianSciEnTech_Presentation/ # Media and visuals from the symposium presentation
-│ ├── Presentation_Media_1.jpeg
-│ ├── Presentation_Media_2.jpeg
-│ ├── Presentation_Media_3.jpeg
-│ └── Presentation_Video.mp4
+├── 5_EurasianSciEnTech_Presentation/  # Media and visuals from the symposium presentation
+│   ├── Videos/
+│   │   └── Presentation_Video.mp4
+│   ├── Images/
+│   │   ├── Presentation_Media_1.jpeg
+│   │   ├── Presentation_Media_2.jpeg
+│   │   └── Presentation_Media_3.jpeg
+│   └── Pptx_Project_Presentation/
+│       └── autonomous_irrigation_presentation.pptx
 
-├── 6_TÜBİTAK 2209-A Project Final Report/ # Final project report submitted to TÜBİTAK
-│ └── 2209-A Sonuç Raporu.docx
+├── 6_TÜBİTAK_2209-A_Project_Final_Report/  # Final project report submitted to TÜBİTAK
+│   └── 2209-A_Sonuç_Raporu.docx
+```
+
+
 
 ## ✅ Future Improvements
 - Integration with weather forecasting APIs
