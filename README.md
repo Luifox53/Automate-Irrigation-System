@@ -16,50 +16,6 @@
 This project presents the design and implementation of an **autonomous irrigation system** powered entirely by **renewable energy**,with a primary focus on **solar energy**. Designed for **campuses, parks, and agricultural areas**,
 the system minimizes human labor and optimizes water usage through smart, sensor-based automation.
 
-Key features:
-- Soil moisture and rain sensors
-- Wireless communication (Wi-Fi/GPRS)
-- Multi-zone irrigation control
-- Solar-powered, grid-independent
-- Web-based interface for manual/automatic control
-
-## ⚙️ Technologies Used
-- **Microcontroller:** ESP32
-- **Sensors:** Soil Moisture, Rain, Temperature, Humidity 
-- **Communication:** Wi-Fi, SIM800L (GPRS), optional LoRa
-- **Power Supply:** 20W Solar Panel, 12V Battery, Charge Controller
-- **Software Stack:** Arduino IDE, HTML/CSS/JavaScript, REST API
-- **Frontend:** Mobile-compatible web interface
-- **Backend:** Local server with HTTP communication
-
-## 🛠️ System Features
-- 📶 Remote control of solenoid valves
-- 📅 Scheduling via calendar interface
-- 📊 Sensor data logging and visualization
-- 🌐 Web-based real-time monitoring
-- 🔋 Off-grid operation through solar energy
-
-## 📷 System Images
-> [Circuit_Diagram]
-> 
-> <img width="834" height="735" alt="Circuit_Diagram" src="https://github.com/user-attachments/assets/7b30d361-17a5-4373-bbfb-7983ff907395" alt="Circuit Diagram" width="250"/>
-> 
-> [Circuit]
-> 
-> <img width="486" height="650" alt="Circuit" src="https://github.com/user-attachments/assets/9d7b0b5f-9492-4081-962e-04fa49468db8" alt="Circuit" width="250" />
-
-> [UI]
-> 
-> <img width="1600" height="804" alt="uı" src="https://github.com/user-attachments/assets/99564685-25ca-4553-aec3-9c1e1ffa80d3" alt="UI" width="250"/>
-
-
-
-
-## 🧪 Test Results
-- 20–30% water savings observed compared to manual irrigation
-- Fully autonomous functionality during day/night cycles
-- Reliable operation in rural/off-grid areas
-
 ## 📦 File Structure
 
 ```
@@ -117,6 +73,50 @@ Key features:
 │   └── 2209-A_Sonuç_Raporu.docx
 ```
 
+
+Key features:
+- Soil moisture and rain sensors
+- Wireless communication (Wi-Fi/GPRS)
+- Multi-zone irrigation control
+- Solar-powered, grid-independent
+- Web-based interface for manual/automatic control
+
+## ⚙️ Technologies Used
+- **Microcontroller:** ESP32
+- **Sensors:** Soil Moisture, Rain, Temperature, Humidity 
+- **Communication:** Wi-Fi, SIM800L (GPRS), optional LoRa
+- **Power Supply:** 20W Solar Panel, 12V Battery, Charge Controller
+- **Software Stack:** Arduino IDE, HTML/CSS/JavaScript, REST API
+- **Frontend:** Mobile-compatible web interface
+- **Backend:** Local server with HTTP communication
+
+## 🛠️ System Features
+- 📶 Remote control of solenoid valves
+- 📅 Scheduling via calendar interface
+- 📊 Sensor data logging and visualization
+- 🌐 Web-based real-time monitoring
+- 🔋 Off-grid operation through solar energy
+
+## 📷 System Images
+> [Circuit_Diagram]
+> 
+> <img width="834" height="735" alt="Circuit_Diagram" src="https://github.com/user-attachments/assets/7b30d361-17a5-4373-bbfb-7983ff907395" alt="Circuit Diagram" width="250"/>
+> 
+> [Circuit]
+> 
+> <img width="486" height="650" alt="Circuit" src="https://github.com/user-attachments/assets/9d7b0b5f-9492-4081-962e-04fa49468db8" alt="Circuit" width="250" />
+
+> [UI]
+> 
+> <img width="1600" height="804" alt="uı" src="https://github.com/user-attachments/assets/99564685-25ca-4553-aec3-9c1e1ffa80d3" alt="UI" width="250"/>
+
+
+
+
+## 🧪 Test Results
+- 20–30% water savings observed compared to manual irrigation
+- Fully autonomous functionality during day/night cycles
+- Reliable operation in rural/off-grid areas
 
 
 ## ✅ Future Improvements
