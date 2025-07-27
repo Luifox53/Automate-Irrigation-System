@@ -25,7 +25,7 @@ Key features:
 
 ## ⚙️ Technologies Used
 - **Microcontroller:** ESP32
-- **Sensors:** Soil Moisture, Rain
+- **Sensors:** Soil Moisture, Rain, Temperature, Humidity 
 - **Communication:** Wi-Fi, SIM800L (GPRS), optional LoRa
 - **Power Supply:** 20W Solar Panel, 12V Battery, Charge Controller
 - **Software Stack:** Arduino IDE, HTML/CSS/JavaScript, REST API
@@ -40,7 +40,10 @@ Key features:
 - 🔋 Off-grid operation through solar energy
 
 ## 📷 System Images
-> 📌 (Add visuals here like Figure 1, 2, 3, 4)
+> [Circuit_Diagram] <img width="834" height="735" alt="Circuit_Diagram" src="https://github.com/user-attachments/assets/7b30d361-17a5-4373-bbfb-7983ff907395" alt="Circuit Diagram" width="500"/> />
+> [UI] (https://github.com/user-attachments/assets/b9a8a5f7-2881-4318-b4b5-86495fe0b89a)
+
+
 
 ## 🧪 Test Results
 - 20–30% water savings observed compared to manual irrigation
