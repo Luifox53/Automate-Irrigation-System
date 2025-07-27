@@ -41,9 +41,11 @@ Key features:
 
 ## 📷 System Images
 > [Circuit_Diagram]
-> <img width="834" height="735" alt="Circuit_Diagram" src="https://github.com/user-attachments/assets/7b30d361-17a5-4373-bbfb-7983ff907395" alt="Circuit Diagram" width="250"/> 
+> <img width="834" height="735" alt="Circuit_Diagram" src="https://github.com/user-attachments/assets/7b30d361-17a5-4373-bbfb-7983ff907395" alt="Circuit Diagram" width="250"/>
+> 
 > [Circuit]
 > <img width="486" height="650" alt="Circuit" src="https://github.com/user-attachments/assets/9d7b0b5f-9492-4081-962e-04fa49468db8" alt="Circuit" width="250" />
+
 > [UI]
 > <img width="1600" height="804" alt="uı" src="https://github.com/user-attachments/assets/99564685-25ca-4553-aec3-9c1e1ffa80d3" alt="UI" width="250"/>
 
