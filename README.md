@@ -99,5 +99,4 @@ Supported by:
 - **Artvin Çoruh University Scientific Research Projects** (Project No: 2024.F13.02.02)
 
 ## 📬 Contact
-Hakan Temiz - github: htemiz
 Muhammed Enes Kandemir – 230502017@ogrenci.artvin.edu.tr 
