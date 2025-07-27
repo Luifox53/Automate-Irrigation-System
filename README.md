@@ -16,6 +16,13 @@
 This project presents the design and implementation of an **autonomous irrigation system** powered entirely by **renewable energy**,with a primary focus on **solar energy**. Designed for **campuses, parks, and agricultural areas**,
 the system minimizes human labor and optimizes water usage through smart, sensor-based automation.
 
+Key features:
+- Soil moisture and rain sensors
+- Wireless communication (Wi-Fi/GPRS)
+- Multi-zone irrigation control
+- Solar-powered, grid-independent
+- Web-based interface for manual/automatic control
+
 ## 📦 File Structure
 
 ```
@@ -73,13 +80,6 @@ the system minimizes human labor and optimizes water usage through smart, sensor
 │   └── 2209-A_Sonuç_Raporu.docx
 ```
 
-
-Key features:
-- Soil moisture and rain sensors
-- Wireless communication (Wi-Fi/GPRS)
-- Multi-zone irrigation control
-- Solar-powered, grid-independent
-- Web-based interface for manual/automatic control
 
 ## ⚙️ Technologies Used
 - **Microcontroller:** ESP32
