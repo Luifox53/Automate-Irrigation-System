@@ -121,7 +121,7 @@ Key features:
 
 ## 🎥 Project Video
 
-[![Project Video]([./4_Media/Images/demo_thumbnail.jpg)](https://drive.google.com/file/d/1jP15lLcfARQD-vmFjMQdXCxEizxdDFq0/view?usp=sharing](https://drive.google.com/file/d/1SnkRoSBHCFl7H4rJ_28wO30zTQW7vszI/view?usp=sharing))
+[![Project Video]([./4_Media/Images/demo_thumbnail.jpg)](https://drive.google.com/file/d/1SnkRoSBHCFl7H4rJ_28wO30zTQW7vszI/view?usp=sharing)
 
 
 
