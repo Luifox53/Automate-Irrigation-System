@@ -119,9 +119,9 @@ Key features:
 > 
 > <img width="800" height="402" alt="UI" src="https://github.com/user-attachments/assets/99564685-25ca-4553-aec3-9c1e1ffa80d3" />
 
-## 🎥 Project Demo Video
+## 🎥 Project Video
 
-[![Project Demo](./4_Media/Images/demo_thumbnail.jpg)](https://drive.google.com/file/d/1jP15lLcfARQD-vmFjMQdXCxEizxdDFq0/view?usp=sharing)
+[![Project Video]([./4_Media/Images/demo_thumbnail.jpg)](https://drive.google.com/file/d/1jP15lLcfARQD-vmFjMQdXCxEizxdDFq0/view?usp=sharing](https://drive.google.com/file/d/1SnkRoSBHCFl7H4rJ_28wO30zTQW7vszI/view?usp=sharing))
 
 
 
