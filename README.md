@@ -7,7 +7,7 @@
 
 Temiz, H., Kandemir, M. E., Güler, E., Gürgün, H., & Yavuz, G. (2025, June). Development of a renewable energy-powered autonomous irrigation system for sustainable landscape management (Paper ID: 293).
 Paper presented at the 6th International Eurasian Conference on Science, Engineering and Technology (EurasianSciEnTech 2025), Artvin, Türkiye. Retrieved from www.EurasianSciEnTech.org
-
+> [First page of the paper presented at EurasianSciEnTech 2025]
 <img width="594" height="838" alt="First page of conference paper on renewable energy-powered irrigation system" src="https://github.com/user-attachments/assets/009efc70-e18d-420f-89cb-42d95be15681" />
 
 **Access:** [Proceedings Book (PDF)](https://www.eurasianscientech.org/bildiri%20taslaklar%C4%B1/Proceeding_Book_EurasianSciEnTech_2025.pdf) — paper found on page 1396
