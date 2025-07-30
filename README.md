@@ -121,9 +121,9 @@ Key features:
 
 ## 🎥 Project Video
 
-[![Project Video](<img width="449" height="798" alt="Ekran görüntüsü 2025-07-30 231849" src="https://github.com/user-attachments/assets/d06ed52a-d6f8-43bc-be89-dd34ae6867d8" />)](https://drive.google.com/file/d/1SnkRoSBHCFl7H4rJ_28wO30zTQW7vszI/view?usp=sharing)
+[![Project Video]](https://drive.google.com/file/d/1SnkRoSBHCFl7H4rJ_28wO30zTQW7vszI/view?usp=sharing)
 
-<img width="449" height="798" alt="Ekran görüntüsü 2025-07-30 231849" src="https://github.com/user-attachments/assets/d06ed52a-d6f8-43bc-be89-dd34ae6867d8" />
+<img width="150" height="300" alt="Ekran görüntüsü 2025-07-30 231849" src="https://github.com/user-attachments/assets/d06ed52a-d6f8-43bc-be89-dd34ae6867d8" />
 
 
 
