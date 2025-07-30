@@ -3,6 +3,12 @@
 ## 📌 Project Title
 **Development of a Renewable Energy-Powered Autonomous Irrigation System for Sustainable Landscape Management**
 
+### 🎓 Conference Paper (Paper ID: 293)
+Temiz, H., Kandemir, M. E., Güler, E., Gürgün, H., & Yavuz, G. (2025, June). Development of a renewable energy-powered autonomous irrigation system for sustainable landscape management (Paper ID: 293).
+Paper presented at the 6th International Eurasian Conference on Science, Engineering and Technology (EurasianSciEnTech 2025), Artvin, Türkiye. Retrieved from www.EurasianSciEnTech.org
+<img width="789" height="886" alt="First page of conference paper on renewable energy-powered irrigation system" src="https://github.com/user-attachments/assets/ea6ec81e-bfa0-49bd-93ee-0b194f9d8bb4 " />
+**Access:** [Proceedings Book (PDF)](https://www.eurasianscientech.org/bildiri%20taslaklar%C4%B1/Proceeding_Book_EurasianSciEnTech_2025.pdf) — paper found on page 1420
+
 ## 👥 Authors
 - Hakan Temiz 
 - Muhammed Enes Kandemir 
@@ -100,15 +106,15 @@ Key features:
 ## 📷 System Images
 > [Circuit_Diagram]
 > 
-> <img width="834" height="735" alt="Circuit_Diagram" src="https://github.com/user-attachments/assets/7b30d361-17a5-4373-bbfb-7983ff907395" alt="Circuit Diagram" width="250"/>
+> <img width="500" height="400" alt="Circuit_Diagram" src="https://github.com/user-attachments/assets/7b30d361-17a5-4373-bbfb-7983ff907395" alt="Circuit Diagram" />
 > 
 > [Circuit]
 > 
-> <img width="486" height="650" alt="Circuit" src="https://github.com/user-attachments/assets/9d7b0b5f-9492-4081-962e-04fa49468db8" alt="Circuit" width="250" />
+> <img width="486" height="650" alt="Circuit" src="https://github.com/user-attachments/assets/9d7b0b5f-9492-4081-962e-04fa49468db8" />
 
 > [UI]
 > 
-> <img width="1600" height="804" alt="uı" src="https://github.com/user-attachments/assets/99564685-25ca-4553-aec3-9c1e1ffa80d3" alt="UI" width="250"/>
+> <img width="800" height="402" alt="UI" src="https://github.com/user-attachments/assets/99564685-25ca-4553-aec3-9c1e1ffa80d3" />
 
 
 
