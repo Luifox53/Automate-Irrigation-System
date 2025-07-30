@@ -124,7 +124,8 @@ Key features:
 > [Project Video – hosted on Google Drive]  
 <img width="150" height="300" alt="Ekran görüntüsü 2025-07-30 231849" src="https://github.com/user-attachments/assets/d06ed52a-d6f8-43bc-be89-dd34ae6867d8" />
 
-> ▶️ **[Click here to watch the video on Google Drive]([https://drive.google.com/file/d/1jP15lLcfARQD-vmFjMQdXCxEizxdDFq0/view?usp=sharing](https://drive.google.com/file/d/1SnkRoSBHCFl7H4rJ_28wO30zTQW7vszI/view?usp=sharing))**  
+> ▶️ **[Click here to watch the video on Google Drive](https://drive.google.com/file/d/1SnkRoSBHCFl7H4rJ_28wO30zTQW7vszI/view?usp=sharing)**
+
 > *(Hosted on Google Drive — no login required)*
 
 
